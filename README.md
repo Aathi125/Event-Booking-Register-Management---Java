@@ -70,7 +70,7 @@ Event_Management/
 ## 🚀 How to Run the Project
 
 1. Clone the repository  
-git clone https://github.com/your-username/jazz-event-booking.git
+git clone https://github.com/Aathi125/Event-Booking-Register-Management---Java.git
 
 2. Import the project into **IntelliJ IDEA / Eclipse**
 
@@ -96,3 +96,4 @@ Non commercial and for educational purposes only
 
 For any questions or feedback, feel free to reach out atkilmd1125@gmail.com.  
 This project was developed as part of academic learning and skill development.
+
