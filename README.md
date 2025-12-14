@@ -94,6 +94,7 @@ Non commercial and for educational purposes only
 
 ## 📩 Contact
 
-For any questions or feedback, feel free to reach out atkilmd1125@gmail.com.  
+For any questions or feedback, feel free to reach out atkilmdn1125@gmail.com.  
 This project was developed as part of academic learning and skill development.
+
 
