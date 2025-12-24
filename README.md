@@ -5,6 +5,8 @@ The system provides a user friendly interface for customers and a dedicated admi
 
 ---
 
+![Website Image](JazzEvnts.png)
+
 ## 📌 Features
 
 ### User Side
@@ -96,5 +98,6 @@ Non commercial and for educational purposes only
 
 For any questions or feedback, feel free to reach out atkilmdn1125@gmail.com.  
 This project was developed as part of academic learning and skill development.
+
 
 
